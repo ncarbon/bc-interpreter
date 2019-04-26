@@ -8,7 +8,7 @@
 
 `javac *.java`
 
-`java CalculatorRun <input.txt>`  (if no file name is provided, it will read input from the standard input stream)
+`java CalculatorRun input/<input file>`  (if no file name is provided, it will read input from the standard input stream)
 
 The start rule is `prog`
 

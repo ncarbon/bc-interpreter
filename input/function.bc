@@ -1,0 +1,18 @@
+x = 1
+y = 2
+
+define sum(a, b) { 
+    z = a + b
+    print z
+}
+
+sum(x, y) // should print 3 (and return 0)
+
+z // should not be accessible "no such variable exists: z"
+
+define prod(a, b) { // will print 0
+    return a*b
+}
+
+f = prod(x, y) //  should return 2
+f
