@@ -1,4 +1,4 @@
-# bc-grammar
+# bc-interpreter
 
 
 ## Grammar and interpretter for [bc](https://www.gnu.org/software/bc/manual/html_mono/bc.html)
